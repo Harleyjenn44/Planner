@@ -1,11 +1,18 @@
-#intro{
+h1{
     text-align: center;
     font-style: italic;
     color:mediumaquamarine;
-    font-style: bold;
+    font-size: xx-large;
+    
 }
 #date_time{
     text-align: center;
     color: black;
-    font-style: bold;
+    font-size: larger;
+  
+}
+h2{
+    text-align: center;
+    font-size: large;
+    color: darkred;
 }
