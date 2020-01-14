@@ -24,5 +24,8 @@ for (var i = 0; i< hour.length; i++){
   var currentTime = Date()
   console.log(currentTime)
   console.log(hour[i])
+  if (hour < Date){
+    
+  }
 }
 // 1. use jquery to select divs with name plans. 2. gives you an array .each()  also crate var for current time create var that just pulls the hour 3. create if then statement. if 
